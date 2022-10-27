@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: Index
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: La Casa Del Dragón
+- file: Los Anillos Del Poder
+- file: The Walking Dead
