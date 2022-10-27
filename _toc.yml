@@ -4,6 +4,6 @@
 format: jb-book
 root: Index
 chapters:
-- file: La Casa Del Dragón
-- file: Los Anillos Del Poder
-- file: The Walking Dead
+- file: La_Casa_Del_Dragon
+- file: Los_Anillos_Del_Poder
+- file: T_W_D
