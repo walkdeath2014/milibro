@@ -1,7 +1,7 @@
 # La Casa Del Dragón
 
 ![Imagen](https://bikiniburka.org/wp-content/uploads/2022/09/61CA2FB0-EE34-45B7-BBBB-C5C2AD563F84.jpeg)
-Imágen tomada del cartel de la serie "La Casa Del Dragón"
+Imágen tomada del cartel de la serie "La Casa Del Dragón" (2022)
 
 <hr>
 
